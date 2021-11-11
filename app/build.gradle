@@ -52,8 +52,8 @@ afterEvaluate {
             // Creates a Maven publication called "release".
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.github.jitpack'
-                artifactId = 'android-example'
+                groupId = 'com.karaz'
+                artifactId = 'library'
                 version = '1.0'
             }
         }
