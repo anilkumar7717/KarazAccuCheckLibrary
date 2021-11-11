@@ -14,6 +14,10 @@ allprojects {
   
 ### Step 2. Add the dependency
 
+
+~~~classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
+~~~
+
 ```dependencies {
 	        implementation 'com.github.anilkumar7717:KarazAccuCheck-Library:1.0'
 	}
