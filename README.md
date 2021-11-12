@@ -19,7 +19,7 @@ allprojects {
 classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
 
 dependencies {
-	        implementation 'com.github.anilkumar7717:KarazAccuCheckLibrary:0.1.5'
+	        implementation 'com.github.ishupassi90:KarazAccuCheckLibrary:0.1.5'
 	}
 ```
 	
